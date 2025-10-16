@@ -1,13 +1,12 @@
-ស្រ៊ង សុខជាតិ- Sokcheat Srorng, [10/16/2025 8:06 PM]
-<h1 align="center">Hi 👋, I'm Srorng Sokcheat</h1>
-<h3 align="center">A passionate technology enthusiast exploring full-stack development, blockchain, and more. Proud to be a Girl in Tech!</h3>
+<h1 align="center">Hi 👋, I'm Heng Soleakna</h1>
+<h3 align="center">A passionate technology enthusiast exploring full-stack development and more. Proud to be a Girl in Tech!</h3>
 
 
 - 🔭 I’m currently working on **Hyperledger Fabric**
 
-- 🌱 I’m currently learning **Web Full Stack, Blockchain**
+- 🌱 I’m currently learning **Web Full Stack**
 
-- 📫 How to reach me **sokcheatsrorng@gmail.com**
+- 📫 How to reach me **soleakna2023495@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -37,8 +36,6 @@
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
 
-ស្រ៊ង សុខជាតិ- Sokcheat Srorng, [10/16/2025 8:06 PM]
-
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
   </a> 
   <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
@@ -66,9 +63,9 @@
 
 <h3 align="left">🚀 Projects I've worked on:</h3>
 <ul>
-  <li><strong>Hyperledger Fabric Setup:</strong> Implemented a blockchain network using Hyperledger Fabric for secure data transactions.</li>
   <li><strong>Full-Stack Web Development:</strong> Created dynamic web applications using React, Node.js, and PostgreSQL.</li>
   <li><strong>API Development:</strong> Built RESTful APIs with Spring Boot and integrated them into front-end frameworks.</li>
 </ul>
 
 <h3 align="center">I'm always excited to learn more and collaborate on meaningful projects. Let's connect!</h3>
+
